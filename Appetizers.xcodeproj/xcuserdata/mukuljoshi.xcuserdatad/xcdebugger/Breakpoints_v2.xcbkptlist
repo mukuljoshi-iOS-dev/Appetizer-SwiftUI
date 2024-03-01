@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9F5B1B29-1DF6-4BDE-B928-769380BD3244"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0F2DFF4-04CE-4220-B9A2-29A0A370B07D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Appetizers/Screens/AccountView/AccountView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0349468B-42DF-4BB2-814D-43F9907684EB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Appetizers/Screens/AccountView/AccountViewModal.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "isValidForm"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "596B7434-DCFE-4A52-9EA8-D5F93BE3BDB4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Appetizers/Screens/AccountView/AccountViewModal.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "isValidForm"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5054CFB-C167-4D95-A226-44FBED824E7C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Appetizers/Screens/AccountView/AccountViewModal.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "AccountViewModal"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F5054CFB-C167-4D95-A226-44FBED824E7C - c7f4f5cab1412a66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Appetizers.AccountViewModal.alertItem : Swift.Optional&lt;Appetizers.AlertItem&gt;"
+                  moduleName = "Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mukuljoshi/Desktop/My/SwiftUI/Appetizers/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "F5054CFB-C167-4D95-A226-44FBED824E7C - 1b8380e8aa57b14b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appetizers.AccountViewModal.alertItem.getter : Swift.Optional&lt;Appetizers.AlertItem&gt;"
+                  moduleName = "Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mukuljoshi/Desktop/My/SwiftUI/Appetizers/Appetizers/Screens/AccountView/AccountViewModal.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F5054CFB-C167-4D95-A226-44FBED824E7C - 88b669b26c7faf57"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appetizers.AccountViewModal.alertItem.setter : Swift.Optional&lt;Appetizers.AlertItem&gt;"
+                  moduleName = "Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mukuljoshi/Desktop/My/SwiftUI/Appetizers/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "F5054CFB-C167-4D95-A226-44FBED824E7C - 3fa41e9069fb3d4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appetizers.AccountViewModal.alertItem.modify : Swift.Optional&lt;Appetizers.AlertItem&gt;"
+                  moduleName = "Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mukuljoshi/Desktop/My/SwiftUI/Appetizers/Appetizers/Screens/AccountView/AccountViewModal.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F5054CFB-C167-4D95-A226-44FBED824E7C - 6d420b5542feec4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appetizers.AccountViewModal.alertItem.modify : Swift.Optional&lt;Appetizers.AlertItem&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mukuljoshi/Desktop/My/SwiftUI/Appetizers/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "F5054CFB-C167-4D95-A226-44FBED824E7C - 7933de8e6abd3ae4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appetizers.AccountViewModal.$alertItem.getter : Combine.Published&lt;Swift.Optional&lt;Appetizers.AlertItem&gt;&gt;.Publisher"
+                  moduleName = "Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mukuljoshi/Desktop/My/SwiftUI/Appetizers/Appetizers/Screens/AccountView/AccountViewModal.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F5054CFB-C167-4D95-A226-44FBED824E7C - ddaf9732215f54cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appetizers.AccountViewModal.$alertItem.setter : Combine.Published&lt;Swift.Optional&lt;Appetizers.AlertItem&gt;&gt;.Publisher"
+                  moduleName = "Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mukuljoshi/Desktop/My/SwiftUI/Appetizers/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "30">
+               </Location>
+               <Location
+                  uuid = "F5054CFB-C167-4D95-A226-44FBED824E7C - a68a5bfb29a664d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appetizers.AccountViewModal.$alertItem.modify : Combine.Published&lt;Swift.Optional&lt;Appetizers.AlertItem&gt;&gt;.Publisher"
+                  moduleName = "Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mukuljoshi/Desktop/My/SwiftUI/Appetizers/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "F5054CFB-C167-4D95-A226-44FBED824E7C - b6d2836944afaa1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appetizers.AccountViewModal.$alertItem.modify : Combine.Published&lt;Swift.Optional&lt;Appetizers.AlertItem&gt;&gt;.Publisher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mukuljoshi/Desktop/My/SwiftUI/Appetizers/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "F5054CFB-C167-4D95-A226-44FBED824E7C - 1b8380e8aa57b1cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appetizers.AccountViewModal.alertItem.getter : Swift.Optional&lt;Appetizers.AlertItem&gt;"
+                  moduleName = "Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mukuljoshi/Desktop/My/SwiftUI/Appetizers/Appetizers/Screens/AccountView/AccountViewModal.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F5054CFB-C167-4D95-A226-44FBED824E7C - 3fa41e9069fb3dca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appetizers.AccountViewModal.alertItem.modify : Swift.Optional&lt;Appetizers.AlertItem&gt;"
+                  moduleName = "Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mukuljoshi/Desktop/My/SwiftUI/Appetizers/Appetizers/Screens/AccountView/AccountViewModal.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F5054CFB-C167-4D95-A226-44FBED824E7C - 7933de8e6abd3a60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Appetizers.AccountViewModal.$alertItem.getter : Combine.Published&lt;Swift.Optional&lt;Appetizers.AlertItem&gt;&gt;.Publisher"
+                  moduleName = "Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mukuljoshi/Desktop/My/SwiftUI/Appetizers/Appetizers/Screens/AccountView/AccountViewModal.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E18588FA-EA0F-44C7-B756-C06E6EF01297"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Appetizers/Screens/AccountView/AccountViewModal.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "saveChanges()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5A7219D-8A6B-4C51-AE03-3E90BA1A37AE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Appetizers/Screens/AccountView/AccountViewModal.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "saveChanges()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "942EF916-1DBF-4DE3-93C0-45E36373BBE9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Appetizers/Screens/AccountView/AccountViewModal.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "retriveUser()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B2618EA-D72B-4930-870E-10C3881AF3BD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Appetizers/Screens/AccountView/AccountView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "8B2618EA-D72B-4930-870E-10C3881AF3BD - 1a4303e6cac1d23c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.submitLabel(SwiftUI.SubmitLabel) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.submitLabel(SwiftUI.SubmitLabel) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disableAutocorrection(Swift.Optional&lt;Swift.Bool&gt;) -&gt; some&gt;&gt;.0, SwiftUI.DatePicker&lt;SwiftUI.Text&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt;, SwiftUI.EmptyView&gt;, &lt;&lt;opaque return type of SwiftUI.View.toggleStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToggleStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in Appetizers.AccountView.body.getter : some"
+                  moduleName = "Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mukuljoshi/Desktop/My/SwiftUI/Appetizers/Appetizers/Screens/AccountView/AccountView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "909">
+               </Location>
+               <Location
+                  uuid = "8B2618EA-D72B-4930-870E-10C3881AF3BD - 5ad90ef0d2ef18e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Toggle&lt;SwiftUI.Text&gt;, SwiftUI.Toggle&lt;SwiftUI.Text&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.submitLabel(SwiftUI.SubmitLabel) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.submitLabel(SwiftUI.SubmitLabel) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disableAutocorrection(Swift.Optional&lt;Swift.Bool&gt;) -&gt; some&gt;&gt;.0, SwiftUI.DatePicker&lt;SwiftUI.Text&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt;, SwiftUI.EmptyView&gt;, &lt;&lt;opaque return type of SwiftUI.View.toggleStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToggleStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in Appetizers.AccountView.body.getter : some"
+                  moduleName = "Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mukuljoshi/Desktop/My/SwiftUI/Appetizers/Appetizers/Screens/AccountView/AccountView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "227">
+               </Location>
+               <Location
+                  uuid = "8B2618EA-D72B-4930-870E-10C3881AF3BD - 1a4303e6cac1d23c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.submitLabel(SwiftUI.SubmitLabel) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.submitLabel(SwiftUI.SubmitLabel) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.disableAutocorrection(Swift.Optional&lt;Swift.Bool&gt;) -&gt; some&gt;&gt;.0, SwiftUI.DatePicker&lt;SwiftUI.Text&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt;, SwiftUI.EmptyView&gt;, &lt;&lt;opaque return type of SwiftUI.View.toggleStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToggleStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.toolbar&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ToolbarContent&gt;(content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in Appetizers.AccountView.body.getter : some"
+                  moduleName = "Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mukuljoshi/Desktop/My/SwiftUI/Appetizers/Appetizers/Screens/AccountView/AccountView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "946">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94230C1F-8930-41E4-9A84-98C2B47DF136"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Appetizers/Screens/ApptizerListView/AppetizerListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "94230C1F-8930-41E4-9A84-98C2B47DF136 - ad9698836a4b8764"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Appetizers.Appetizer) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.blur(radius: CoreGraphics.CGFloat, opaque: Swift.Bool) -&gt; some&gt;&gt;.0, Swift.Optional&lt;Appetizers.LoadingView&gt;, Swift.Optional&lt;Appetizers.AppetizerDetailView&gt;)&gt; in Appetizers.AppetizerListView.body.getter : some"
+                  moduleName = "Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mukuljoshi/Desktop/My/SwiftUI/Appetizers/Appetizers/Screens/ApptizerListView/AppetizerListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "376">
+               </Location>
+               <Location
+                  uuid = "94230C1F-8930-41E4-9A84-98C2B47DF136 - ad9698836a4b8785"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Appetizers.Appetizer) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.blur(radius: CoreGraphics.CGFloat, opaque: Swift.Bool) -&gt; some&gt;&gt;.0, Swift.Optional&lt;Appetizers.LoadingView&gt;, Swift.Optional&lt;Appetizers.AppetizerDetailView&gt;)&gt; in Appetizers.AppetizerListView.body.getter : some"
+                  moduleName = "Appetizers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mukuljoshi/Desktop/My/SwiftUI/Appetizers/Appetizers/Screens/ApptizerListView/AppetizerListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "434">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
