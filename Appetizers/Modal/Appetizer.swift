@@ -16,7 +16,6 @@ struct Appetizer: Decodable, Identifiable{
     let calories: Int
     let protein: Int
     let carbs: Int
-    var fats: Int = 0
 }
 
 
