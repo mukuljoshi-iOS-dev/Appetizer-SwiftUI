@@ -10,7 +10,7 @@ import SwiftUI
 struct AppetizerTabView: View {
     
     @EnvironmentObject var orders: Order
-    
+        
     var body: some View {
         TabView {
             AppetizerListView()
@@ -28,7 +28,7 @@ struct AppetizerTabView: View {
 //                    Image(systemName: "bag")
 //                    Text("Order")
                     Label("Order", systemImage: "bag")
-                }      
+                }
                 .badge(orders.items.count)
         }
     }

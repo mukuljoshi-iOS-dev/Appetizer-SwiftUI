@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import SPM_Demo
 
 @main
 struct AppetizersApp: App {
@@ -14,8 +15,8 @@ struct AppetizersApp: App {
     
     var body: some Scene {
         WindowGroup {
-            AppetizerTabView().environmentObject(order)
-//            MyView()
+//            AppetizerTabView().environmentObject(order)
+            MyView()
         }
     }
 }
